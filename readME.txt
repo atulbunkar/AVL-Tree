@@ -1,4 +1,4 @@
-ASSIGNMENT 2 : AVL Tree
+ASSIGNMENT 2 of DS LAB at IIT Guwahati : AVL Tree data structure
 ROLL NO: 214101011
 
 How to execute:-
